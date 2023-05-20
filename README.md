@@ -1,2 +1,2 @@
 # RBTree
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+https://github.com/MrProLopstar/RBTree/assets/44553727/ce978fee-f374-409f-aac1-d795708e7d75
